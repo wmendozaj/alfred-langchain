@@ -1,7 +1,11 @@
 # Alfred - Virtual Assistant
 Alfred is an assistant that leverages technologies like ChatGPT, LangChain, and Whisper to create an intelligent communication ecosystem.
 
-This Python 3.11.4 project utilizes the LangChain, Speech Recognition, Notion Client, and Pygame libraries. 
+This Python 3.11.4 project utilizes the LangChain, Speech Recognition, Notion Client, and Pygame libraries.
+
+## Flowchart
+
+![Alt text](/img/alfred-flowchart.png)
 
 ## Instructions
 
